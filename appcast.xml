@@ -3,13 +3,13 @@
     <channel>
         <title>Whisperflow</title>
         <item>
-            <title>4.1.1</title>
-            <pubDate>Thu, 12 Mar 2026 08:43:26 +0100</pubDate>
-            <sparkle:version>411</sparkle:version>
-            <sparkle:shortVersionString>4.1.1</sparkle:shortVersionString>
+            <title>4.2.0</title>
+            <pubDate>Thu, 12 Mar 2026 10:58:29 +0100</pubDate>
+            <sparkle:version>420</sparkle:version>
+            <sparkle:shortVersionString>4.2.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://raw.githubusercontent.com/t3mr0i/WhisperFlow-Releases/main/Whisperflow-4.1.1.dmg" length="45000439" type="application/octet-stream" sparkle:edSignature="V4cZeMVeoDSekle8y7+AzBRzQZRCCvF1aGIk9OPHp6dD+DDAbf5vwGHYrdgXoIdYGtqFbM10XtcKAQ7wsnALDQ=="/>
+            <enclosure url="https://raw.githubusercontent.com/t3mr0i/WhisperFlow-Releases/main/Whisperflow-4.2.0.dmg" length="45013246" type="application/octet-stream" sparkle:edSignature="jzCTd5SHjy4dewYxMnFhkKGSbmOA58IDp5KminP7kTlaUjgUl2aP4rEKC1ONLubOTp+vl8F/utLtRXziJntlBg=="/>
         </item>
     </channel>
 </rss>
