@@ -3,13 +3,13 @@
     <channel>
         <title>Whisperflow</title>
         <item>
-            <title>6.3.2</title>
-            <pubDate>Fri, 13 Mar 2026 17:08:36 +0100</pubDate>
-            <sparkle:version>632</sparkle:version>
-            <sparkle:shortVersionString>6.3.2</sparkle:shortVersionString>
+            <title>6.3.3</title>
+            <pubDate>Fri, 13 Mar 2026 17:24:40 +0100</pubDate>
+            <sparkle:version>633</sparkle:version>
+            <sparkle:shortVersionString>6.3.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://raw.githubusercontent.com/t3mr0i/WhisperFlow-Releases/main/Whisperflow-6.3.2.dmg" length="46472135" type="application/octet-stream" sparkle:edSignature="4wuZtF5x0iyFKvW2BFN7i/ZrDvRTZQyhCV8sl0L325I/uHFSIJOI8Hd79Daa+cKMEyEVreWu9S4yVZ85oMOUBA=="/>
+            <enclosure url="https://raw.githubusercontent.com/t3mr0i/WhisperFlow-Releases/main/Whisperflow-6.3.3.dmg" length="46469643" type="application/octet-stream" sparkle:edSignature="pa0bx1wW6E9lnTUQ8D96jMPvdse8hkKQyxKo0mRhDs8z6VZZKaeWst0RLImz09TO8vlolorv5h9D1G51CtzPDg=="/>
         </item>
     </channel>
 </rss>
