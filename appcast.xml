@@ -3,13 +3,25 @@
     <channel>
         <title>Whisperflow</title>
         <item>
+            <title>8.19.0</title>
+            <pubDate>Tue, 24 Mar 2026 12:00:55 +0100</pubDate>
+            <sparkle:version>8190</sparkle:version>
+            <sparkle:shortVersionString>8.19.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://raw.githubusercontent.com/t3mr0i/WhisperFlow-Releases/main/Whisperflow-8.19.0.dmg" length="47539502" type="application/octet-stream" sparkle:edSignature="9SVW16ZTbZJSuo/LBsJxWkcRCZrqyM7GddMovR9ThP2E3Fs0agRsKE/3uYbaBo1/OwIU85FUD2mskmOMUDOyCQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/t3mr0i/WhisperFlow-Releases/main/Whisperflow8190-8180.delta" sparkle:deltaFrom="8180" length="1332262" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="AmMYOcEpGZDki8b3bYizqSWZrpBpUq+Gch6nksa7K5rT0Gdcy7YgLqpEunBBocUAGmlufRgY3cF+rilf2JRsAQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>8.18.0</title>
-            <pubDate>Tue, 24 Mar 2026 09:45:20 +0100</pubDate>
+            <pubDate>Tue, 24 Mar 2026 09:59:29 +0100</pubDate>
             <sparkle:version>8180</sparkle:version>
             <sparkle:shortVersionString>8.18.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://raw.githubusercontent.com/t3mr0i/WhisperFlow-Releases/main/Whisperflow-8.18.0.dmg" length="47535703" type="application/octet-stream" sparkle:edSignature="/ItraEYLfG4IOjPWT0prdssMIWgUH/lkxS0IiGZJSo+qvoSe9qQRIXBu96dhOvya5TpnXg3CFHRLbQyRrSC8CA=="/>
+            <enclosure url="https://raw.githubusercontent.com/t3mr0i/WhisperFlow-Releases/main/Whisperflow-8.18.0.dmg" length="48271311" type="application/octet-stream" sparkle:edSignature="4coOmws4myq6dDdBL26ZhlU8InXbuCpJh53Zki3D7J8UrWz2VSXzut/APeM2A92QdANEgdqOh4NEqiKUJmvSCg=="/>
         </item>
     </channel>
 </rss>
