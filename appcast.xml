@@ -4,12 +4,12 @@
         <title>Whisperflow</title>
         <item>
             <title>8.23.0</title>
-            <pubDate>Wed, 25 Mar 2026 16:13:26 +0100</pubDate>
+            <pubDate>Thu, 26 Mar 2026 08:43:33 +0100</pubDate>
             <sparkle:version>8230</sparkle:version>
             <sparkle:shortVersionString>8.23.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://raw.githubusercontent.com/t3mr0i/WhisperFlow-Releases/main/Whisperflow-8.23.0.dmg" length="47598933" type="application/octet-stream" sparkle:edSignature="fxzSaxrA5YORVjJa+ZPjOLKbZH6FOLLZTuFVwCsdKNf9hvPW1bzyKwRYhvi34UikJohfOstvoaWSxakL3CPtAQ=="/>
+            <enclosure url="https://raw.githubusercontent.com/t3mr0i/WhisperFlow-Releases/main/Whisperflow-8.23.0.dmg" length="47598377" type="application/octet-stream" sparkle:edSignature="zFMaW9y6nbxrdZbmp4uebL8qxXwEmN5K2rd3qmu2BlTGb7iAkdPr7GEZYO9+fZNH7V+rcFZmxbdIIRbg2AnuDw=="/>
         </item>
     </channel>
 </rss>
